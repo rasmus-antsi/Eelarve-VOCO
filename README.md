@@ -12,7 +12,8 @@ A modern, minimal budget tracking application built with Django and Tailwind CSS
 - 💾 **Persistent Storage**: SQLite database for data storage
 
 ## Screenshots
-<img width="2560" height="1440" alt="Screenshot 2025-09-27 at 14 54 22" src="https://github.com/user-attachments/assets/504a08f8-f596-4c8c-be14-04ebe6138fe1" />
+<img width="1470" height="956" alt="Screenshot 2025-09-29 at 09 41 17" src="https://github.com/user-attachments/assets/352b2868-eeed-433a-a962-2b7de587265f" />
+
 
 
 The application features a clean dashboard with:
